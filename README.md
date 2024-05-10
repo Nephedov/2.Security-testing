@@ -19,6 +19,10 @@
 #### Задание 2
 * Реализован <a href="https://docs.google.com/document/d/1op58oLiIFKADd2RQXfq1dRoxPNPR5W3KIMPNc-9kIh0/edit?usp=sharing">WhiteList</a> символьного поля.
 
+---
+---
+
+
 ## Описание Задания 1
 
 Составить план тестирования приложения, имеющего два поля: 
